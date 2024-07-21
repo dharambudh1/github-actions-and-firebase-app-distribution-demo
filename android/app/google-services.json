@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566995124255",
+    "project_id": "github-actions-fb-app-distribu",
+    "storage_bucket": "github-actions-fb-app-distribu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566995124255:android:a294d0b5bd385afd04952a",
+        "android_client_info": {
+          "package_name": "com.example.github_actions_and_firebase_app_distribution_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMfUSxK46Uuld8qOTPsSuWb7E_Mh2CjRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

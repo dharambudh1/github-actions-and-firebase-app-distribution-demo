@@ -1,1 +1,3 @@
-# github-actions-and-firebase-app-distribution-demo
+# github_actions_and_firebase_app_distribution_demo
+
+A new Flutter project.
